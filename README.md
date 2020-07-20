@@ -1,5 +1,5 @@
 ![Karliky](https://github.com/karliky/karliky/raw/master/header.png)
-<hr/>
+
 <p align="center">
   <a href="https://www.youtube.com/channel/UCn8pB_M-ZJdfdmS4BI6F7JA?view_as=subscriber" target="blank">
     <img
@@ -18,3 +18,15 @@
     />
   </a>
 </p>
+<hr/>
+
+# About me
+I’m a software developer focused on Quantum Computing, Reverse engineering and Full-stack development. I grew up getting into secret video game areas. I have always been curious about learning more about the world outside my own.
+
+## Areas of interest
+* Quantum Computing
+* Computer Security
+* Virtual Machines internals (V8, Spidermonkey)
+* TDD and DDD
+* Exploration
+* Reverse engineering video games
