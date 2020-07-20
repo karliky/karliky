@@ -1,1 +1,1 @@
-![Karliky](https://github.com/karliky/karliky/raw/master/readme.png)
+![Karliky](https://github.com/karliky/karliky/raw/master/header.png)
