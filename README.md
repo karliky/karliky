@@ -30,3 +30,12 @@ I’m a software developer focused on Quantum Computing, Reverse engineering and
 * TDD and DDD
 * Exploration
 * Reverse engineering video games
+
+## Talks 🎤
+| <img width="200px" heigh="200px" src="https://karliky.com/video2.74ed9d99.png" alt="Mission Impossible - Forbidden Areas"/> | <img width="200px" heigh="200px" src="https://karliky.com/video1.6271516a.png" alt="Fantastic Places and where to find them"/> | <img width="200px" heigh="200px" src="https://karliky.com/video3.784a5253.png" alt="Reverse engineering with JS"/>
+|---------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
+| **Mission Impossible - Forbidden Areas**                                                                          | **Fantastic Places and where to find them**                                                         | **Reverse engineering with JS**                                                |
+| The third and last talk about the series of reverse engineering games I've made.| Second talk about reverse engineering video-games with JavaScript.| Different methods to access secret places in video-games.|
+
+
+
