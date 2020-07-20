@@ -24,9 +24,9 @@
 I’m a software developer focused on Quantum Computing, Reverse engineering and Full-stack development. I grew up getting into secret video game areas. I have always been curious about learning more about the world outside my own.
 
 ## Areas of interest💡
-* 🧮 Quantum Computing
-* 🔒 Computer Security
-* ✨ Virtual Machines internals (V8, Spidermonkey)
-* 📙 TDD and DDD
-* 🏝️ Exploration
-* 🛡️ Reverse engineering video games
+* Quantum Computing
+* Computer Security
+* Virtual Machines internals (V8, Spidermonkey)
+* TDD and DDD
+* Exploration
+* Reverse engineering video games
